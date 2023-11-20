@@ -1,0 +1,37 @@
+.main-otp {
+  margin-left: 500px;
+  border: 1px solid rgb(188, 244, 242);
+  width: 500px;
+  height: 100px;
+  margin-top: 40px;
+}
+.lab-in {
+  border-radius: 5px;
+  padding: 10px 10px;
+  margin-left: 40px;
+  align-items: center;
+  justify-content: center;
+  border: 2px solid #ccc;
+  background-color: white;
+}
+.lab-in:hover {
+  box-shadow: 0 0 5px blue;
+}
+.en {
+  padding: 10px 5px;
+  justify-content: center;
+  align-items: center;
+  font-family: sans-serif;
+  font-size: large;
+  width: 250px;
+  background-color: rgb(115, 0, 255);
+  margin-top: 20px;
+  margin-left: 150px;
+  margin-bottom: 10px;
+  border: 1px solid white;
+  border-radius: 5px;
+}
+.en:hover {
+  box-shadow: 0 0 5px blue;
+  background-color: aqua;
+}

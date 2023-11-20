@@ -1,0 +1,32 @@
+.App {
+  margin: 0px;
+  margin-top: 50px;
+  font-family: sans-serif;
+  background-color: rgb(87, 85, 89);
+  border-radius: 5px;
+  border: 1px solid none;
+  margin-right: 300px;
+  margin-left: 500px;
+  margin-bottom: 100px;
+}
+.h {
+  background-color: rgb(92, 92, 95);
+  margin-left: 100px;
+}
+.m1 {
+  padding: 10px 10px;
+  border-radius: 5px;
+  border: 1px solid burlywood;
+  margin-left: 50px;
+  margin-bottom: 50px;
+}
+.m2 {
+  padding: 10px 10px;
+  border-radius: 5px;
+  border: 1px solid burlywood;
+  margin-left: 50px;
+  margin-bottom: 50px;
+}
+.u {
+  background-color: brown;
+}

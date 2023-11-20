@@ -1,0 +1,21 @@
+.nav {
+  border: 1px solid rgb(137, 248, 230);
+  margin-left: 500px;
+  width: 500px;
+  height: 100%;
+  margin-right: 100px;
+}
+.content {
+  margin-left: 100px;
+}
+.flex {
+  display: flex;
+}
+.btn {
+  padding: 5px 5px;
+  border-radius: 5px;
+  border: 1px solid rgb(183, 247, 240);
+}
+.btn:hover {
+  box-shadow: 0 0 5px blue;
+}
